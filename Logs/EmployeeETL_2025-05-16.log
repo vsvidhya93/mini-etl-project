@@ -1,0 +1,14 @@
+2025-05-16 17:27:18,107 - root - INFO - File Moved Successfully!
+2025-05-16 17:27:18,118 - root - INFO - Removed duplicate records
+2025-05-16 17:27:18,122 - root - INFO - Removed empty records without employee Name
+2025-05-16 17:27:23,005 - root - INFO - checked for valid email address
+2025-05-16 17:27:23,008 - root - INFO - Handled empty email and department columns with valid data
+2025-05-16 17:27:23,009 - root - INFO - Converted salary column to numeric
+2025-05-16 17:27:23,011 - root - INFO - Filled empty salary records with median 
+2025-05-16 17:27:23,017 - root - INFO - Number of records excluding header : 52
+2025-05-16 17:27:23,019 - root - INFO - Number of duplicate records removed: 3
+2025-05-16 17:27:23,019 - root - INFO - Number of unique records : 49
+2025-05-16 17:27:23,019 - root - INFO - Removed 3 records without employee name successfully!
+2025-05-16 17:27:23,019 - root - INFO - Final number of records excluding header: 46
+2025-05-16 17:27:23,019 - root - INFO - Cleansed employee data written to CSV
+2025-05-16 17:27:23,022 - root - INFO - Output File Moved Successfully to Target Folder!
