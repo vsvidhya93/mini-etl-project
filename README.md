@@ -45,6 +45,7 @@ After cleaning:
 
 
 ##  Project Structure
+```
 mini-etl-project/
 ├── EmployeeETL.py
 ├── Input/
@@ -54,5 +55,24 @@ mini-etl-project/
 ├── Logs/
 │ └── EmployeeETL_YYYY-MM-DD.log
 └── README.md
+```
 
+
+## 🚀 How to Run
+```bash
+python EmployeeETL.py
+```
+
+## ✅ Features
+Error handling for file operations
+
+Logging for tracking data issues
+
+Clear modular design using functions
+
+## 🙋‍♀️ Author
+Vidhya Lakshmi Venkatraman Sankar
+
+## 📌 Notes
+This project is part of my ETL Developer upskilling and serves as a demonstration of basic data wrangling and pipeline scripting using Python.
 
